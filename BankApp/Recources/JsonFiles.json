@@ -1,0 +1,22 @@
+{
+    "Header": {
+        "StatusCode": "APIGW000000",
+        "StatusDescription": "Completed",
+        "ObjectID": "4c4ce322-4fd7-4bb6-8f1f-aceccdcb4ce5"
+    },
+    "Data": {
+        "AccountInfo": {
+            "CurrencyCode": "TL",
+            "LastTransactionDate": "2021-01-29T12:14:23",
+            "AccountStatus": "A",
+            "OpeningDate": "2020-12-29T16:20:43",
+            "IBAN": "TR000000000158000000000001",
+            "CustomerNumber": "445805642686",
+            "RemainingBalance": "7200.46",
+            "Balance": "7200.46",
+            "AccountType": "2",
+            "BranchCode": "S01007",
+            "AccountNumber": "00158000000000001"
+        }
+    }
+}

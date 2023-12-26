@@ -1,0 +1,47 @@
+{
+    "Header": {
+        "StatusCode": "APIGW000000",
+        "StatusDescription": "Completed",
+        "ObjectID": "046b813c-1c74-4c07-b8e2-4956a07c49c4"
+    },
+    "Data": {
+        "AccountTransactions": [
+            {
+                "CurrencyCode": "TL",
+                "TransactionType": "1",
+                "Description": "Borçlu:...",
+                "Amount": "650.0",
+                "TransactionCode": "SNTSTHSLAT",
+                "Balance": "4957.61",
+                "TransactionName": "Senet tahsilatı",
+                "TransactionDate": "2020-02-05T10:47:47",
+                "TransactionId": "2020000000000001",
+                "Icon" : "bill"
+            },
+            {
+                "CurrencyCode": "TL",
+                "TransactionType": "1",
+                "Description": "MASRAF VE KOMİSYON TUTARI...",
+                "Amount": "7.0",
+                "TransactionCode": "FYTSMSRFIPT",
+                "Balance": "4964.61",
+                "TransactionName": "Masraf Tahsilat İptali",
+                "TransactionDate": "2020-02-05T10:50:04",
+                "TransactionId": "2020000000000002",
+                "Icon" : "bill"
+            },
+            {
+                "CurrencyCode": "TL",
+                "TransactionType": "2",
+                "Description": "EFT ...",
+                "Amount": "-200.0",
+                "TransactionCode": "EFTTHSBEFT",
+                "Balance": "4764.61",
+                "TransactionName": "Hesaba giden EFT",
+                "TransactionDate": "2020-02-07T16:20:25",
+                "TransactionId": "2020000000000003",
+                "Icon" : "atm"
+            }
+        ]
+    }
+}

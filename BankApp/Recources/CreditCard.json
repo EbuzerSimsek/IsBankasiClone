@@ -1,0 +1,33 @@
+{
+    "Header": {
+        "StatusCode": "APIGW000000",
+        "StatusDescription": "Completed",
+        "ObjectID": "577bb52c-ee59-4061-ac37-8e69c62b1c87"
+    },
+    "Data": {
+        "CreditCardInfo": {
+            "CardNumber": "5421********1269",
+            "NextLastPaymentDate": "2023-06-26T00:00:00",
+            "TotalLimit": 1.0E7,
+            "RemainingMinimumPaymentAmountDomestic": 1,
+            "TotalTermDebtBalanceAbroad": 0,
+            "MainCardNumber": "5421********1269",
+            "LastPaymentDate": "2021-02-24T00:00:00",
+            "StatementDate": "2021-02-22T00:00:00",
+            "Point": 1094.6,
+            "CardStatus": "N  Normal",
+            "CardOwnerNameSurname": "ABDULLAH  AYDEMİR",
+            "CardType": "A",
+            "MinimumPaymentAmountDomestic": 1,
+            "NextStatementDate": "2023-06-21T00:00:00",
+            "TermDebtBalanceDomestic": 70.95,
+            "TotalTermDebtBalanceDomestic": 40.95,
+            "CardProductName": "Visa Business Kart",
+            "BranchName": "19 MAYIS BAĞ. Ş",
+            "InterestRate": 2,
+            "BranchCode": "0972",
+            "RemainingDebtDomestic": 40.95,
+            "RemainingLimit": 1.000213804E7
+        }
+    }
+}
